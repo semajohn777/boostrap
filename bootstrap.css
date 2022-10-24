@@ -73,7 +73,7 @@ img{
     }
      .show-text, .show-h3, .show-p{
         max-width: 550px;
-    } 
+     
     /* .imgHeader{
         width: 150%;
         /* margin-right: 2em;
@@ -105,3 +105,4 @@ img{
         width: 40%;
     }
     }
+
